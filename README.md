@@ -169,6 +169,8 @@ demo — and it runs on its own: nothing here phones home to the rest.
 
 **See how the whole thing fits together → [SYSTEM.md](https://github.com/tonydzi/Palo-Alto-AI-Research-Lab/blob/main/SYSTEM.md)**
 
+Once the machines have agreed *what* to change, [`fleet-deploy`](https://github.com/tonydzi/fleet-deploy) is how the change actually reaches every one of them - with a canary order and a verify that has to read the fact back.
+
 Its closest neighbours in the **fleet** layer: [`claude-mac-patrol`](https://github.com/tonydzi/claude-mac-patrol)
 
 <!--ecosystem-map:end-->
