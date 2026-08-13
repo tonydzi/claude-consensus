@@ -1,4 +1,4 @@
-# Failure modes
+# Failure modes of a multi-machine AI agent consensus engine
 
 Every guard in this engine exists because something broke first. This page is the
 scar tissue: each known failure, the root cause, the guard that now catches it,
