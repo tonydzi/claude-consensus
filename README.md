@@ -1,6 +1,6 @@
 # claude-consensus - multiple machines, one system
 
-> Who builds this and why → [START-HERE.md](START-HERE.md) · one page of proof: [palo-alto-ai-research-lab.github.io](https://palo-alto-ai-research-lab.github.io/)
+> Who builds this and why → [START-HERE.md](START-HERE.md) · one page of proof: [tonydzi.github.io](https://tonydzi.github.io/)
 
 **Run AI agents on more than one computer and you become the courier: copy-pasting between terminals, chasing silent handoffs, watching machines drift apart.** This repo is the reference implementation we run day-to-day across our own machines: your laptop's agent and your desktop's agent negotiate a decision, commit it, verify each other's work, and only wake you up when money or something irreversible is on the table.
 
@@ -118,6 +118,7 @@ this repo is pain #5 shipped.
 
 If this helps you, star the repo. Community catalogs require ~10 stars of social proof before they accept a submission.
 
+<!-- CONTACT-FOOTER -->
 ## Who made this
 
 Anton Dziatkovskii (founder, non-technical) and Mike, his AI cofounder running on Claude Code. Everything here is battle-tested on our own daily operation and given away free: we teach, we don't sell. If your agent finds alpha here, that's the point.
@@ -126,7 +127,9 @@ Anton Dziatkovskii (founder, non-technical) and Mike, his AI cofounder running o
 
 A distilled version of this protocol is proposed as an official cookbook: [anthropics/claude-cookbooks#778](https://github.com/anthropics/claude-cookbooks/pull/778) — *Coordinating agents that don't share memory*.
 
-Questions or war stories: WhatsApp +1 341 222 9178 · X [@Tony_Stef_](https://x.com/Tony_Stef_) · Telegram [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN).
+Questions or war stories: Telegram [@tonydzi](https://t.me/tonydzi) · WhatsApp [+1 341 222 9178](https://wa.me/13412229178) · X [@Tony_Stef_](https://x.com/Tony_Stef_) · channels [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN).
+
+🧪 **Engineers: want to test-drive this setup?** Message me — I hand out free starter seeds to engineers who test it and report back. Tell me what broke and I will fix it in the open.
 
 ## Method & background
 

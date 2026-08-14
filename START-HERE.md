@@ -1,6 +1,6 @@
 # START HERE — who builds this and why
 
-> One page for engineers and hiring managers: **[palo-alto-ai-research-lab.github.io](https://palo-alto-ai-research-lab.github.io/)**
+> One page for engineers and hiring managers: **[tonydzi.github.io](https://tonydzi.github.io/)**
 
 **Anton Dziatkovskii** — I've done developer activation for a frontier platform before, when smart contracts were where LLM agents are now. CS security (MEPhI), 7+ years venture founder, publishing researcher on multi-agent stability. This repo family is a production multi-machine Claude fleet, run in public.
 
